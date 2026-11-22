@@ -72,7 +72,7 @@ app.get("/getSummary", (req, res) => {
 });
 
 app.use((error, req, res, next) => {
-   console.error("Request failed:", error.name);
+   console.error("Request failed:", error.name, "code:", error.code, "codeName:", error.codeName);
    res.status(503).send("Unable to access the database. Check the MongoDB connection settings and try again.");
 });
 
