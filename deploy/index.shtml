@@ -9,9 +9,9 @@
         <h1>Project 7 - Hosting</h1>
         <p>Name: Daniel Son</p>
         <p>GitHub Location: <a href="https://github.com/dson05/djson721TERP">https://github.com/dson05/djson721TERP</a></p>
-        <p>Render Location: <a href="https://YOUR_RENDER_SERVICE.onrender.com">https://YOUR_RENDER_SERVICE.onrender.com</a></p>
-        <p>Clearing Database Movies: <a href="https://YOUR_RENDER_SERVICE.onrender.com/clearCollection">Clear movies</a></p>
-        <p>Inserting Movies: <a href="https://YOUR_RENDER_SERVICE.onrender.com/insertMovies">Insert movies</a></p>
-        <p>List Movies: <a href="https://YOUR_RENDER_SERVICE.onrender.com/listMovies">List movies</a></p>
+        <p>Render Location: <a href="https://movies-deployment-ej9t.onrender.com">https://movies-deployment-ej9t.onrender.com</a></p>
+        <p>Clearing Database Movies: <a href="https://movies-deployment-ej9t.onrender.com/clearCollection">Clear movies</a></p>
+        <p>Inserting Movies: <a href="https://movies-deployment-ej9t.onrender.com/insertMovies">Insert movies</a></p>
+        <p>List Movies: <a href="https://movies-deployment-ej9t.onrender.com/listMovies">List movies</a></p>
     </body>
 </html>

@@ -37,7 +37,7 @@ The app reads Render's `PORT` setting and uses Render's environment variables in
 
 ## TerpConnect page
 
-1. The page in `deploy/index.shtml` uses Daniel Son and repository `https://github.com/dson05/djson721TERP`. Replace `YOUR_RENDER_SERVICE` with the actual Render service name once deployed.
+1. The page in `deploy/index.shtml` uses Daniel Son and repository `https://github.com/dson05/djson721TERP`. The Render service is https://movies-deployment-ej9t.onrender.com and its endpoint links are filled in.
 2. From this project folder, copy `deploy` to your TerpConnect public directory:
 
    ```sh
